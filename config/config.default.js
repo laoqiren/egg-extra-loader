@@ -11,22 +11,5 @@ exports.extraLoader = {
     defaultOptions: {
         call: false
     },
-    bindings: [
-        {
-            dir: 'love',
-            property: 'love',
-            toBind: ['ctx'],
-            options: {
-                call: false
-            }
-        },
-        {
-            dir: 'models',
-            property: 'model',
-            toBind: ['app'],
-            options: {
-                call: true
-            }
-        }
-    ]
+    bindings: []
 };

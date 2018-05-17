@@ -45,12 +45,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-extra-loader.git"
+    "url": "git+https://github.com/laoqiren/egg-extra-loader.git"
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-extra-loader#readme",
+  "homepage": "https://github.com/laoqiren/egg-extra-loader.git#readme",
   "author": "laoqiren",
   "license": "MIT"
 }
