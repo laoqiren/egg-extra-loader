@@ -57,7 +57,7 @@ module.exports = {
     }
 }
 
-// app/model/hello.js
+// app/models/hello.js
 module.exports = app => {
     return {
         sayHello(){
