@@ -1,6 +1,6 @@
 {
   "name": "egg-extra-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "extra egg loader",
   "eggPlugin": {
     "name": "extraLoader"
